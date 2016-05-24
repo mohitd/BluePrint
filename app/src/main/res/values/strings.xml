@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BluePrint</string>
+    <string name="nav_drawer_inbox">Inbox</string>
+    <string name="nav_drawer_completed">Completed</string>
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="time_icon">Due date</string>
+    <string name="description_icon">Description</string>
+    <string name="description">Description</string>
+    <string name="user">User</string>
+</resources>
